@@ -35,7 +35,7 @@ export function HeroSection() {
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight mb-6" style={{ textWrap: "balance" }}>
           {"Feliz "}
           <span className="text-primary">
-            {"Aniversario!"}
+            {"Aniversário!"}
           </span>
         </h1>
 
