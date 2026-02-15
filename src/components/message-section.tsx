@@ -21,14 +21,14 @@ export function MessageSection() {
 
             <div className="space-y-6 pt-2">
               <p className="text-base md:text-lg text-foreground/80 leading-relaxed">
-                Hoje e um dia muito especial! Um dia para celebrar a pessoa incrivel que voce e.
-                Cada momento ao seu lado e um presente, e sou grato por cada sorriso, cada conversa,
+                Hoje é um dia muito especial! Um dia para celebrar a pessoa incrível que voce é.
+                Cada momento ao seu lado é um presente, e sou grato por cada sorriso, cada conversa,
                 cada memoria que criamos juntos.
               </p>
 
               <p className="text-base md:text-lg text-foreground/80 leading-relaxed">
-                Que este novo ano da sua vida seja repleto de alegrias, realizacoes e momentos
-                inesqueciveis. Voce merece tudo de melhor que o mundo pode oferecer!
+                Que este novo ano da sua vida seja repleto de alegrias, realizações e momentos
+                inesquecíveis. Você merece tudo de melhor que o mundo pode oferecer!
               </p>
 
               <div className="flex items-center justify-end gap-2 pt-4">
